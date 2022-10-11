@@ -13,7 +13,7 @@ jobs:
   debug-builds:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3.1.0
       - uses: gradle/wrapper-validation-action@v1
       - uses: actions/setup-python@v3
         with:
