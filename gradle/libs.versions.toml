@@ -17,7 +17,7 @@ jacksonAnnotations = "2.13.4"
 desugaring = "1.2.2"
 cronetEmbedded = "106.5249.126"
 cronetOkHttp = "0.1.0"
-coil = "2.2.2"
+coil = "2.3.0"
 leakcanary = "2.10"
 room = "2.4.3"
 
